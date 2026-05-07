@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Tech](https://img.shields.io/badge/tech-JavaScript-blue)
-![Project](https://img.shields.io/badge/type-web--app-orange)
 
 ---
 
