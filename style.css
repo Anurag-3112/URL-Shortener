@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+input {
+  width: 300px;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 15px;
+}
+
+#result a {
+  color: blue;
+  font-weight: bold;
+}
+
+.container {
+  width: 90%;
+  max-width: 500px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.08);
+  margin: auto;
+  backdrop-filter: blur(15px);
+  border-radius: 16px;
+  padding: 20px;
+  color: #000000;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
